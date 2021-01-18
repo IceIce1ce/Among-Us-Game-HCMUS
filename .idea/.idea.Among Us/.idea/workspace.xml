@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8374402f-c387-45a8-aefd-ca015ceba6e9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ChatSystem/ChatItemUI.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ChatSystem/UIControl.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerNameTag.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/WaitingRoomSetup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/changeSceneWin.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/imposterWin.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/Assets/Scripts/VentsSystem/Vent.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/VentsSystem/VentsSystem.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/ChatSystem/ChatItemUI.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/ChatSystem/UIControl.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/VentsSystem/PlayMusicController.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/ChatSystem/ChatWindowUI.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Network.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/ChatSystem/PlayerInfo.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/InitWaitingRoom.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Movent_Lobby.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/PlayerNameInput.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Movement_Lobby.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/PlayerNameTag.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/BlinkLight.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/SabotageController.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/DoorSystem.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/VentsSystem/PlayerCollider.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/WaitingRoomSetup.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/changeSceneWin.cs" />
+      <option value="$PROJECT_DIR$/Assets/LobbyManager.cs" />
+      <option value="$PROJECT_DIR$/Assets/Image Menu/MainMenu.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/AU_Interactable.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/AU_PlayerController.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/imposterWin.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/crewmateWin.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/MasterClient.cs" />
+    </changedPaths>
+  </component>
+  <component name="ProjectId" id="1jvVzQRLVrEjKTn2TfbztIxIQ3w" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="http.certificates" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Standalone Player" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/build_test\Among Us.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\HP\Desktop\AU\test movement\Among Us\build_test" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8374402f-c387-45a8-aefd-ca015ceba6e9" name="Default Changelist" comment="" />
+      <created>1604684823988</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604684823988</updated>
+      <workItem from="1604684835527" duration="1216000" />
+      <workItem from="1604772517761" duration="226000" />
+      <workItem from="1604804869921" duration="1494000" />
+      <workItem from="1605022022151" duration="738000" />
+      <workItem from="1605026041319" duration="1925000" />
+      <workItem from="1605063849562" duration="1318000" />
+      <workItem from="1605066739230" duration="67000" />
+      <workItem from="1605067586608" duration="440000" />
+      <workItem from="1605069598727" duration="1880000" />
+      <workItem from="1605101891544" duration="58000" />
+      <workItem from="1605267587537" duration="2001000" />
+      <workItem from="1605369898227" duration="1328000" />
+      <workItem from="1605454905609" duration="1959000" />
+      <workItem from="1605511827653" duration="2494000" />
+      <workItem from="1605516911455" duration="698000" />
+      <workItem from="1606149942289" duration="2633000" />
+      <workItem from="1606153285458" duration="482000" />
+      <workItem from="1606180177334" duration="2000000" />
+      <workItem from="1606272243207" duration="5075000" />
+      <workItem from="1606450460827" duration="2335000" />
+      <workItem from="1606453366969" duration="900000" />
+      <workItem from="1606488679337" duration="1456000" />
+      <workItem from="1607401969883" duration="984000" />
+      <workItem from="1607403180865" duration="2471000" />
+      <workItem from="1607418162434" duration="1395000" />
+      <workItem from="1607477640571" duration="9853000" />
+      <workItem from="1607511789865" duration="6190000" />
+      <workItem from="1607526649594" duration="755000" />
+      <workItem from="1607830317453" duration="4172000" />
+      <workItem from="1607851550827" duration="4690000" />
+      <workItem from="1607858824429" duration="3053000" />
+      <workItem from="1607999584291" duration="47000" />
+      <workItem from="1608000273818" duration="2195000" />
+      <workItem from="1608010329676" duration="1695000" />
+      <workItem from="1608029791276" duration="158000" />
+      <workItem from="1608132772180" duration="200000" />
+      <workItem from="1608373310415" duration="179000" />
+      <workItem from="1608373610600" duration="190000" />
+      <workItem from="1608375981789" duration="2245000" />
+      <workItem from="1608433324178" duration="373000" />
+      <workItem from="1608434597633" duration="470000" />
+      <workItem from="1608540538794" duration="935000" />
+      <workItem from="1608548882843" duration="392000" />
+      <workItem from="1608549812324" duration="359000" />
+      <workItem from="1608553771592" duration="898000" />
+      <workItem from="1608558545788" duration="1370000" />
+      <workItem from="1608568903384" duration="2406000" />
+      <workItem from="1608650199812" duration="4841000" />
+      <workItem from="1608684861505" duration="3009000" />
+      <workItem from="1608887172987" duration="573000" />
+      <workItem from="1608899336269" duration="212000" />
+      <workItem from="1609059314796" duration="1899000" />
+      <workItem from="1609064191313" duration="1999000" />
+      <workItem from="1609067051764" duration="1029000" />
+      <workItem from="1609069807682" duration="6050000" />
+      <workItem from="1609084465030" duration="3293000" />
+      <workItem from="1609120413039" duration="3387000" />
+      <workItem from="1609125920423" duration="610000" />
+      <workItem from="1609128747041" duration="272000" />
+      <workItem from="1609129230833" duration="206000" />
+      <workItem from="1609220434649" duration="2882000" />
+      <workItem from="1609224850143" duration="82000" />
+      <workItem from="1609225040878" duration="701000" />
+      <workItem from="1609228779725" duration="2738000" />
+      <workItem from="1609232960727" duration="13494000" />
+      <workItem from="1609254413120" duration="12689000" />
+      <workItem from="1609296633917" duration="4732000" />
+      <workItem from="1609304571356" duration="476000" />
+      <workItem from="1609322893932" duration="2769000" />
+      <workItem from="1609345221516" duration="2583000" />
+      <workItem from="1609395442537" duration="3850000" />
+      <workItem from="1609407321750" duration="10013000" />
+      <workItem from="1609474186697" duration="3725000" />
+      <workItem from="1609509191793" duration="14580000" />
+      <workItem from="1609560530448" duration="12925000" />
+      <workItem from="1609651477528" duration="6076000" />
+      <workItem from="1609745693193" duration="3285000" />
+      <workItem from="1609749695763" duration="5396000" />
+      <workItem from="1609764834799" duration="4282000" />
+      <workItem from="1610104185961" duration="1240000" />
+      <workItem from="1610170901420" duration="13569000" />
+      <workItem from="1610205910446" duration="658000" />
+      <workItem from="1610209277152" duration="2949000" />
+      <workItem from="1610293576772" duration="2904000" />
+      <workItem from="1610372703713" duration="1379000" />
+      <workItem from="1610376608983" duration="2511000" />
+      <workItem from="1610456527708" duration="2420000" />
+      <workItem from="1610462477096" duration="6144000" />
+      <workItem from="1610543939464" duration="9473000" />
+      <workItem from="1610624431993" duration="5837000" />
+      <workItem from="1610635863869" duration="769000" />
+      <workItem from="1610641306746" duration="3799000" />
+      <workItem from="1610680279150" duration="8006000" />
+      <workItem from="1610689225303" duration="420000" />
+      <workItem from="1610693095396" duration="1140000" />
+      <workItem from="1610712005862" duration="336000" />
+      <workItem from="1610800597000" duration="5022000" />
+      <workItem from="1610949638359" duration="526000" />
+      <workItem from="1610950889927" duration="377000" />
+    </task>
+    <servers />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
